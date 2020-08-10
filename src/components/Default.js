@@ -15,5 +15,5 @@ export default class Default extends Component {
                 </div>
             </div>
         )
-    }
+    } 
 }
